@@ -14,27 +14,15 @@ export class Graph {
     private connections = new Map<NodeId, Edge[]>();
 
     addNode(id: NodeId): void {
-        if (this.nodes.has(id)) {
-            throw new Error(`Node ${id} already exists`);
-        }
-
         this.nodes.set(id, { id });
         this.connections.set(id, []);
     }
 
     addEdge(from: NodeId, to: NodeId): void {
-        if (!this.nodes.has(from) || !this.nodes.has(to)) {
-            throw new Error(`Both nodes must exist: ${from}, ${to}`);
-        }
-
         this.connections.get(from)!.push({ from, to });
     }
 
     getConnections(id: NodeId): Edge[] {
-        if (!this.connections.has(id)) {
-            throw new Error(`No data for node: ${id}`);
-        }
-
         return this.connections.get(id)!;
     }
 }
