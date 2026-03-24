@@ -12,4 +12,4 @@ The main directories are listed below.
 Each directory contains a README.md file that provides more detailed information about its contents and how to use it.
 
 - `data/` contains data files that you may need for your project.
-- `workshop/` contains materials and resources for the workshop sessions.
+- `lecture/` contains materials and resources from the lecture.
