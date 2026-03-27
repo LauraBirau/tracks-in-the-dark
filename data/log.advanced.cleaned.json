@@ -1,0 +1,202 @@
+[
+            {
+                "timestamp": "2026-03-26 03:10:00",
+                "sensor": "AC1.1",
+                "direction": "forward"
+            },
+            {
+                "timestamp": "2026-03-26 03:18:00",
+                "sensor": "AC1.2",
+                "direction": "forward"
+            },
+            {
+                "timestamp": "2026-03-26 03:19:00",
+                "sensor": "SS1",
+                "direction": "switch"
+            },
+            {
+                "timestamp": "2026-03-26 03:19:00",
+                "sensor": "AC2.1",
+                "direction": "forward"
+            },
+            {
+                "timestamp": "2026-03-26 03:20:00",
+                "sensor": "AC2.2",
+                "direction": "forward"
+            },
+            {
+                "timestamp": "2026-03-26 03:21:00",
+                "sensor": "AC2.3",
+                "direction": "forward"
+            },
+            {
+                "timestamp": "2026-03-26 03:22:00",
+                "sensor": "AC2.4",
+                "direction": "forward"
+            },
+            {
+                "timestamp": "2026-03-26 03:23:00",
+                "sensor": "AC2.5",
+                "direction": "forward"
+            },
+            {
+                "timestamp": "2026-03-26 03:30:00",
+                "sensor": "AC2.6",
+                "direction": "forward"
+            },
+            {
+                "timestamp": "2026-03-26 03:31:00",
+                "sensor": "AC2.7",
+                "direction": "forward"
+            },
+            {
+                "timestamp": "2026-03-26 03:33:30",
+                "sensor": "AC2.8",
+                "direction": "forward"
+            },
+            {
+                "timestamp": "2026-03-26 03:34:20",
+                "sensor": "AC2.9",
+                "direction": "forward"
+            },
+            {
+                "timestamp": "2026-03-26 03:41:00",
+                "sensor": "AC2.9",
+                "direction": "forward"
+            },
+            {
+                "timestamp": "2026-03-26 03:42:00",
+                "sensor": "SS5",
+                "direction": "switch"
+            },
+            {
+                "timestamp": "2026-03-26 03:42:00",
+                "sensor": "AC4.4",
+                "direction": "reverse"
+            },
+            {
+                "timestamp": "2026-03-26 03:43:00",
+                "sensor": "AC4.3",
+                "direction": "reverse"
+            },
+            {
+                "timestamp": "2026-03-26 03:44:00",
+                "sensor": "AC4.2",
+                "direction": "reverse"
+            },
+            {
+                "timestamp": "2026-03-26 03:52:00",
+                "sensor": "AC4.1",
+                "direction": "reverse"
+            },
+            {
+                "timestamp": "2026-03-26 03:53:00",
+                "sensor": "SS3",
+                "direction": "switch"
+            },
+            {
+                "timestamp": "2026-03-26 03:53:00",
+                "sensor": "AC2.4",
+                "direction": "reverse"
+            },
+            {
+                "timestamp": "2026-03-26 03:54:00",
+                "sensor": "AC2.3",
+                "direction": "reverse"
+            },
+            {
+                "timestamp": "2026-03-26 03:55:00",
+                "sensor": "AC2.2",
+                "direction": "reverse"
+            },
+            {
+                "timestamp": "2026-03-26 03:56:00",
+                "sensor": "AC2.1",
+                "direction": "reverse"
+            },
+            {
+                "timestamp": "2026-03-26 03:57:00",
+                "sensor": "SS1",
+                "direction": "switch"
+            },
+            {
+                "timestamp": "2026-03-26 03:57:00",
+                "sensor": "AC1.2",
+                "direction": "reverse"
+            },
+            {
+                "timestamp": "2026-03-26 04:06:00",
+                "sensor": "AC1.2",
+                "direction": "forward"
+            },
+            {
+                "timestamp": "2026-03-26 04:08:00",
+                "sensor": "AC1.3",
+                "direction": "forward"
+            },
+            {
+                "timestamp": "2026-03-26 04:09:00",
+                "sensor": "AC1.4",
+                "direction": "forward"
+            },
+            {
+                "timestamp": "2026-03-26 04:10:00",
+                "sensor": "SS2",
+                "direction": "switch"
+            },
+            {
+                "timestamp": "2026-03-26 04:10:00",
+                "sensor": "AC3.1",
+                "direction": "forward"
+            },
+            {
+                "timestamp": "2026-03-26 04:11:00",
+                "sensor": "AC3.2",
+                "direction": "forward"
+            },
+            {
+                "timestamp": "2026-03-26 04:12:00",
+                "sensor": "AC3.3",
+                "direction": "forward"
+            },
+            {
+                "timestamp": "2026-03-26 04:14:00",
+                "sensor": "AC3.3",
+                "direction": "forward"
+            },
+            {
+                "timestamp": "2026-03-26 04:15:00",
+                "sensor": "AC3.2",
+                "direction": "reverse"
+            },
+            {
+                "timestamp": "2026-03-26 04:16:00",
+                "sensor": "AC3.1",
+                "direction": "reverse"
+            },
+            {
+                "timestamp": "2026-03-26 04:17:00",
+                "sensor": "SS2",
+                "direction": "switch"
+            },
+            {
+                "timestamp": "2026-03-26 04:17:00",
+                "sensor": "AC1.4",
+                "direction": "reverse"
+            },
+            {
+                "timestamp": "2026-03-26 04:18:00",
+                "sensor": "AC1.3",
+                "direction": "reverse"
+            },
+            {
+                "timestamp": "2026-03-26 04:19:00",
+                "sensor": "AC1.2",
+                "direction": "reverse"
+            },
+            {
+                "timestamp": "2026-03-26 04:20:00",
+                "sensor": "AC1.1",
+                "direction": "reverse"
+            }
+        ]
